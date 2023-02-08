@@ -12,7 +12,7 @@
 
 如果使用 iterm2 ，建议字体间距 96，行距 106
 
-本字体中的 nerd 图标不全，如果使用 iterm2 可以把本字体作为第一字体，第二字体找一个图标全的 nerd font 这样效果最佳。
+本字体中的 nerd 图标有限，可能出现个别图标出现无法识别的情况。
 
 <img width="1413" alt="CleanShot 2023-02-08 at 15 43 46@2x" src="https://user-images.githubusercontent.com/90915827/217466041-ff954cec-669c-4eb3-864a-48f9fe06d661.png">
 <img width="618" alt="CleanShot 2023-02-08 at 15 45 14@2x" src="https://user-images.githubusercontent.com/90915827/217466288-974388a9-b547-4f4d-9172-86d7679f0b6c.png">
