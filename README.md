@@ -8,3 +8,4 @@
 
 
 因此有了这个项目，把我认为最完美的英文字体 Consolas Nerd Font 与等宽霞鹜文楷混合。
+<img width="1413" alt="CleanShot 2023-02-08 at 15 43 46@2x" src="https://user-images.githubusercontent.com/90915827/217466041-ff954cec-669c-4eb3-864a-48f9fe06d661.png">
