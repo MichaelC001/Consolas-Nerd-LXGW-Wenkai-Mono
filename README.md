@@ -10,7 +10,7 @@
 
 图1为效果展示，图2为实现图1效果的 alacritty 设置（本字体名称为'Consolas NF + LXGW Wenkai Mono'）
 
-如果使用 iterm2 ，建议字体间距96，行距106
+如果使用 iterm2 ，建议字体间距 96，行距 106
 
 本字体中的 nerd 图标不全，如果使用 iterm2 可以把本字体作为第一字体，第二字体找一个图标全的 nerd font 这样效果最佳。
 
