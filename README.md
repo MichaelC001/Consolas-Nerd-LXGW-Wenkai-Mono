@@ -1,4 +1,4 @@
-# Consolas-Nerd-LXGW-Wenkai-Mono
+# consolaslxgw
 
 在终端下，同时实现以下三点比较困难：
 
@@ -6,9 +6,9 @@
 - 2、自定义中文字体
 - 3、支持Nerd font图标
 
-因此有了这个项目，把我认为最完美的英文字体 Consolas Nerd Font 与等宽霞鹜文楷混合。
+因此有了这个项目，把我认为最完美的英文字体 Consolas Nerd Font 与等宽霞鹜文楷(LXGW)混合。
 
-图1为效果展示，图2为实现图1效果的 alacritty 设置（本字体名称为'Consolas NF + LXGW Wenkai Mono'）
+图1为效果展示，图2为实现图1效果的 alacritty 设置（本字体名称为'consolaslxgw'）
 
 如果使用 iterm2 ，建议字体间距 96，行距 106
 
