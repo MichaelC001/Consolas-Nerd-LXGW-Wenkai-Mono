@@ -24,3 +24,6 @@
 := != == => === <= >= -> ++ /= >>= <|
 
 ![liga consolaslxgw](https://github.com/user-attachments/assets/ebb17e4c-5d67-4628-9cbc-2c2a5b8a56ce)
+
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
